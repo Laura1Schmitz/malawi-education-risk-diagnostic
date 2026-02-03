@@ -1,0 +1,24 @@
+{
+    "id": "5A0798A6",
+    "path": "C:/Users/lschmitz/OneDrive - DIW Berlin/malawi-education-risk-diagnostic/scripts/01_imports_mics.R",
+    "project_path": "scripts/01_imports_mics.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1770126448688.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1770126448,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770126448,
+    "read_only": false,
+    "read_only_alternatives": []
+}
