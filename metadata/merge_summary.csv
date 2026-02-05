@@ -1,0 +1,2 @@
+n_fs_clean,hl_cluster_key,hl_household_key,hl_line_key,hh_cluster_key,hh_household_key,fs_weight_var,fs_strata_var,fs_urban_var,fs_region_var,fs_cb_age_var,fs_cb_att_var,fs_cb_grade_var,hh_wealth_score_var,hh_wealth_q5_var,hh_wealth_q10_var,merge_rate_sex_nonmiss,merge_rate_fs_age_nonmiss,merge_rate_fs_att_nonmiss,merge_rate_fs_grade_nonmiss,merge_rate_hh_wealthq5_nonmiss
+17976,hh1,hh2,hl1,hh1,hh2,fsweight,stratum,hh6,hh7,cb3,cb7,cb8b,wscore,windex5,windex10,1,0.9915999109924344,0.9335781041388518,0.8325545171339563,1

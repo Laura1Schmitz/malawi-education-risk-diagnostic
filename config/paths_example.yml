@@ -1,0 +1,4 @@
+mics_data: "data/raw/MICS6 2019-2020/Malawi MICS6 SPSS Datasets/Malawi MICS6 SPSS Datasets/hl.sav"
+mics_gis:  "data/raw/MICS6 2019-2020/Malawi MICS6 GIS/your_cluster_shapefile.shp"
+ihs_data:  "data/raw/5IHS 2019-2020/MWI_2019_IHS-V_v06_M_CSV/hh_mod_a_filt.csv"
+

@@ -1,0 +1,317 @@
+var_name,type,var_label,has_value_labels,n_unique,missing_share,example_values
+hh1,numeric,Cluster number,FALSE,1111,0,"1, 1, 1, 1, 1"
+hh2,numeric,Household number,FALSE,60,0,"1, 2, 3, 4, 5"
+hh3,numeric,Interviewer number,FALSE,143,0,"12, 14, 13, 11, 11"
+hh4,numeric,Supervisor number,FALSE,28,0,"10, 10, 10, 10, 10"
+hh5d,numeric,Day of interview,FALSE,31,0,"8, 8, 8, 8, 8"
+hh5m,numeric,Month of interview,FALSE,7,0,"2, 2, 2, 2, 2"
+hh5y,numeric,Year of interview,FALSE,2,0,"2020, 2020, 2020, 2020, 2020"
+hh6,haven_labelled,Area,TRUE,2,0,"2, 2, 2, 2, 2"
+hh7,haven_labelled,Region,TRUE,3,0,"1, 1, 1, 1, 1"
+hh8,haven_labelled,HH selected for Questionnaire for Men,TRUE,2,0,"1, 2, 2, 1, 2"
+hh9,haven_labelled,HH selected for Water Quality Testing,TRUE,2,0,"2, 2, 2, 1, 2"
+hh10,haven_labelled,HH selected for Blank Testing,TRUE,2,0,"2, 2, 2, 2, 2"
+hh11h,numeric,Start of interview - Hour,FALSE,23,0,"12, 12, 12, 12, 16"
+hh11m,numeric,Start of interview - Minutes,FALSE,60,0,"9, 11, 28, 24, 28"
+hh12,haven_labelled,Consent,TRUE,2,0,"1, 1, 1, 1, 2"
+hh46,haven_labelled,Result of HH interview,TRUE,8,0,"1, 1, 1, 1, 3"
+hh13h,numeric,End of interview - Hour,FALSE,24,0.054423034000446395,"12, 13, 12, 13, 16"
+hh13m,numeric,End of interview - Minutes,FALSE,60,0.054423034000446395,"38, 3, 45, 20, 55"
+hh14,haven_labelled,Language of the Questionnaire,TRUE,4,0.054423034000446395,"3, 2, 3, 3, 3"
+hh15,haven_labelled,Language of the Interview,TRUE,4,0.054423034000446395,"3, 2, 3, 3, 3"
+hh16,haven_labelled,Native language of the Respondent,TRUE,4,0.054423034000446395,"3, 3, 3, 3, 3"
+hh17,haven_labelled,Translator used,TRUE,3,0.054423034000446395,"3, 3, 3, 3, 3"
+hh26a,numeric,Rank number of the selected child,FALSE,8,0.3312997544825534,"1, 1, 1, 2, 1"
+hh26b,haven_labelled,Child line number,TRUE,15,0.3312997544825534,"3, 4, 2, 5, 5"
+hh26c,numeric,Child's age,FALSE,13,0.3312997544825534,"15, 14, 5, 16, 6"
+hh33x_01,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,1,0.9987724127669072,"1, 1, 1, 1, 1"
+hh33x_02,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,2,0.9750762592069042,"1, 1, 1, 1, 1"
+hh33x_03,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,2,0.949408526151328,"1, 1, 1, 1, 1"
+hh33x_04,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,2,0.9677107358083475,"1, 1, 1, 1, 1"
+hh33x_05,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,2,0.9844505617141581,"1, 1, 1, 1, 1"
+hh33x_06,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,2,0.9940480619001563,"1, 1, 1, 1, 1"
+hh33x_07,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,2,0.9972472286288223,"1, 1, 1, 1, 1"
+hh33x_08,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,1,0.998474815861915,"1, 1, 1, 1, 1"
+hh33x_09,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,1,0.9990328100587754,"1, 1, 1, 1, 1"
+hh33x_10,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,1,0.9995908042556357,"1, 1, 1, 1, 1"
+hh33x_11,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,1,0.999851201547504,"1, 1, 1, 1"
+hh33x_12,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,1,0.999962800386876,1
+hh33x_13,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,1,0.999962800386876,1
+hh33x_14,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_15,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_16,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_17,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_18,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_19,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_20,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_21,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_22,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_23,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_24,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_25,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_26,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_27,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_28,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_29,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_30,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_31,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_32,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_33,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_34,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_35,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_36,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_37,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_38,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_39,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_40,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_41,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_42,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_43,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_44,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_45,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_46,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_47,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_48,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_49,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33x_50,haven_labelled,Roster to check the consent for interview girls 15-17,TRUE,0,1,
+hh33,haven_labelled,Consent for interview girls 15-17,TRUE,3,0.8725169258239714,"1, 1, 1, 1, 1"
+hh39x_01,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.999851201547504,"1, 1, 1, 1"
+hh39x_02,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,2,0.9924484785358232,"1, 1, 1, 1, 1"
+hh39x_03,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,2,0.9808421992411279,"1, 1, 2, 1, 1"
+hh39x_04,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,2,0.9876869280559483,"1, 1, 1, 1, 1"
+hh39x_05,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,2,0.9938620638345361,"1, 1, 1, 1, 1"
+hh39x_06,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.9975448255338144,"1, 1, 1, 1, 1"
+hh39x_07,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.9988840116062793,"1, 1, 1, 1, 1"
+hh39x_08,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.9994792054162637,"1, 1, 1, 1, 1"
+hh39x_09,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.9998884011606279,"1, 1, 1"
+hh39x_10,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.999851201547504,"1, 1, 1, 1"
+hh39x_11,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.999962800386876,1
+hh39x_12,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,1,0.999962800386876,1
+hh39x_13,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_14,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_15,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_16,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_17,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_18,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_19,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_20,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_21,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_22,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_23,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_24,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_25,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_26,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_27,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_28,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_29,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_30,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_31,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_32,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_33,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_34,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_35,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_36,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_37,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_38,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_39,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_40,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_41,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_42,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_43,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_44,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_45,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_46,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_47,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_48,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_49,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39x_50,haven_labelled,Roster to check the consent for interview boys 15-17,TRUE,0,1,
+hh39,haven_labelled,Consent for interview boys 15-17,TRUE,3,0.9536492820474667,"1, 1, 1, 2, 1"
+hh44,haven_labelled,Consent for Water Quality Testing,TRUE,2,0.8807008407112566,"1, 1, 1, 1, 1"
+hh47,numeric,Respondent to HH questionnaire,FALSE,12,0.054423034000446395,"1, 3, 1, 1, 2"
+hh48,numeric,Number of HH members,FALSE,18,0.054423034000446395,"4, 7, 3, 10, 5"
+hh49,numeric,Number of women 15-49 years,FALSE,7,0.054423034000446395,"1, 1, 1, 2, 1"
+hh50,numeric,Number of men 15-49 years [If household is selected for Questionnaire for Men],FALSE,7,0.054423034000446395,"2, 0, 0, 4, 0"
+hh50a,numeric,Number of men 15 - 49 years in interviewed households,FALSE,8,0.054423034000446395,"2, 1, 0, 4, 1"
+hh51,numeric,Number of children under age 5,FALSE,6,0.054423034000446395,"1, 1, 1, 1, 0"
+hh52,numeric,Number of children age 5-17,FALSE,12,0.054423034000446395,"1, 3, 1, 5, 1"
+hh53,numeric,Number of woman' questionnaires completed,FALSE,7,0.054423034000446395,"0, 1, 1, 2, 1"
+hh54,numeric,Number of man' questionnaires completed [If household is selected for Questionnaire for Men],FALSE,7,0.054423034000446395,"1, 0, 0, 4, 0"
+hh55,numeric,Number of under - 5 questionnaires completed,FALSE,6,0.054423034000446395,"0, 1, 1, 1, 0"
+hh56,numeric,Number of CF questionnaires completed (age 5-17),FALSE,2,0.054423034000446395,"1, 1, 1, 1, 1"
+introhl,haven_labelled,Introduction HH Listing,TRUE,2,0,"1, 1, 1, 1, "
+hhaux,haven_labelled,Other household members,TRUE,1,0.054423034000446395,"2, 2, 2, 2, 2"
+hhwq,haven_labelled,Water Quality prompt,TRUE,2,0,", , , 1, "
+hhfin,haven_labelled,Finish,TRUE,1,0.054423034000446395,"3, 3, 3, 3, 3"
+hc1a,haven_labelled,Religion of household head,TRUE,8,0.054423034000446395,"1, 1, 1, 1, 1"
+hc1b,haven_labelled,Language of household head,TRUE,10,0.054423034000446395,"96, 96, 2, 96, 96"
+hc2,haven_labelled,Ethnic group of household head,TRUE,10,0.054423034000446395,"96, 96, 2, 96, 96"
+hc3,haven_labelled,Number of rooms used for sleeping,TRUE,22,0.054423034000446395,"2, 4, 1, 5, 3"
+hc4,haven_labelled,Main material of floor,TRUE,11,0.054423034000446395,"11, 11, 11, 11, 11"
+hc5,haven_labelled,Main material of roof,TRUE,13,0.054423034000446395,"31, 12, 12, 31, 12"
+hc6,haven_labelled,Main material of exterior wall,TRUE,16,0.054423034000446395,"33, 33, 33, 33, 33"
+hc7a,haven_labelled,Household have: Fixed telephone line,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc7b,haven_labelled,Household have: Radio,TRUE,3,0.054423034000446395,"2, 2, 2, 1, 2"
+hc7c,haven_labelled,Household: Bed,TRUE,3,0.054423034000446395,"1, 1, 2, 1, 2"
+hc7d,haven_labelled,Household have: Sofa,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc7e,haven_labelled,Household have: Chair,TRUE,3,0.054423034000446395,"1, 1, 2, 2, 2"
+hc7f,haven_labelled,Household have: A water storage tank,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc7g,haven_labelled,Household have: Watch,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc8,haven_labelled,Household have electricity,TRUE,4,0.054423034000446395,"3, 3, 3, 3, 3"
+hc9a,haven_labelled,Household have: Television,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc9b,haven_labelled,Household have: Refrigerator,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc9c,haven_labelled,Household have: A water pump,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc9d,haven_labelled,Household have: A sewing machine,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc9e,haven_labelled,Household have: A DVD player,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc10a,haven_labelled,Any member of household own: Wristwatch,TRUE,2,0.054423034000446395,"1, 1, 2, 1, 2"
+hc10b,haven_labelled,Any member of household own: Bicycle,TRUE,3,0.054423034000446395,"2, 1, 2, 1, 2"
+hc10c,haven_labelled,Any member of household own: Motorcycle or scooter,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc10d,haven_labelled,Any member of household own: Animal-drawn cart,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc10e,haven_labelled,"Any member of household own: Car, truck or van",TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc10f,haven_labelled,Any member of household own: Boat with motor,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc10g,haven_labelled,Any member of household: Fishing net,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc10h,haven_labelled,Any member of household own: A canoe,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc11,haven_labelled,Any member have a computer,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc12,haven_labelled,Any member have a mobile telephone,TRUE,3,0.054423034000446395,"2, 1, 1, 1, 2"
+hc13,haven_labelled,Internet access at home,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+hc14,haven_labelled,Household owns the dwelling,TRUE,4,0.054423034000446395,"6, 1, 1, 2, 1"
+hc15,haven_labelled,Any household member own land that can be used for agriculture,TRUE,3,0.054423034000446395,"1, 1, 1, 1, 1"
+hc16,haven_labelled,Unit of Measure  of agricultural land members of household owns,TRUE,5,0.270515586637899,"1, 1, 1, 1, 1"
+hc16a,numeric,Actual Size of agricultural land member of household owns,FALSE,105,0.28409344542816756,"4, 3, 0.5, 8, 1.5"
+hc17,haven_labelled,Household own any animals,TRUE,3,0.054423034000446395,"1, 2, 2, 1, 1"
+hc18a,haven_labelled,Milk cows or bulls,TRUE,26,0.5383156015177443,"0, 0, 0, 0, 1"
+hc18b,haven_labelled,Other cattle,TRUE,29,0.5383156015177443,"0, 1, 0, 0, 0"
+hc18c,haven_labelled,"Horses, donkeys or mules",TRUE,14,0.5383156015177443,"0, 0, 0, 0, 0"
+hc18d,haven_labelled,Goats,TRUE,34,0.5383156015177443,"0, 0, 4, 0, 0"
+hc18e,haven_labelled,Sheep,TRUE,23,0.5383156015177443,"0, 0, 0, 0, 0"
+hc18f,haven_labelled,Chickens,TRUE,55,0.5383156015177443,"2, 3, 0, 6, 8"
+hc18g,haven_labelled,Pigs,TRUE,34,0.5383156015177443,"0, 1, 0, 0, 1"
+hc18h,haven_labelled,Country Specific Additions,TRUE,53,0.5383156015177443,"0, 0, 0, 11, 0"
+hc19,haven_labelled,Any household member own bank account,TRUE,3,0.054423034000446395,"2, 2, 2, 2, 2"
+st2_1,haven_labelled,Aware of (Social Cash Transfer),TRUE,3,0.054423034000446395,"1, 1, 2, 1, 1"
+st2_2,haven_labelled,Aware of (Farm Inputs (Subsidised or Free) (Zipangizo Za Ulimi)),TRUE,3,0.054423034000446395,"1, 1, 1, 1, 1"
+st2_3,haven_labelled,Aware of (Public works (Masaf)),TRUE,3,0.054423034000446395,"1, 1, 1, 1, 1"
+st2_4,haven_labelled,Aware of (Any Retirement Pension),TRUE,3,0.054423034000446395,"1, 1, 2, 1, 2"
+st2_5,haven_labelled,Aware of (Any Other External Assistance Programme (Chithandizo China Chilichonse)),TRUE,3,0.054423034000446395,"2, 1, 2, 2, 2"
+st3_1,haven_labelled,Received assistance through (Social Cash Transfer),TRUE,3,0.13313741537088014,"2, 2, 2, 2, 2"
+st3_2,haven_labelled,Received assistance through (Farm Inputs (Subsidised or Free) (Zipangizo Za Ulimi)),TRUE,4,0.1275574734022766,"2, 2, 2, 1, 1"
+st3_3,haven_labelled,Received assistance through (Public works (Masaf)),TRUE,3,0.1884532400863031,"2, 2, 2, 2, 2"
+st3_4,haven_labelled,Received assistance through (Any Retirement Pension),TRUE,4,0.4308459192024403,"2, 2, 2, 2, 2"
+st3_5,haven_labelled,Received assistance through (Any Other External Assistance Programme (Chithandizo China Chilichonse)),TRUE,3,0.6276690722416487,"2, 1, 2, 1, 2"
+st4u_1,haven_labelled,Last time assistance was received (unit),TRUE,2,0.9353842720035712,"2, 1, 1, 2, 1"
+st4u_2,haven_labelled,Last time assistance was received (unit),TRUE,3,0.6365225801651663,"2, 2, 1, 2, 2"
+st4u_3,haven_labelled,Last time assistance was received (unit),TRUE,3,0.867122981920988,"2, 2, 2, 2, 2"
+st4u_4,haven_labelled,Last time assistance was received (unit),TRUE,3,0.9859757458522431,"2, 2, 2, 2, 1"
+st4u_5,haven_labelled,Last time assistance was received (unit),TRUE,3,0.9057733799568485,"1, 1, 2, 2, 2"
+st4n_1,haven_labelled,Last time assistance was received (number),TRUE,15,0.9353842720035712,"5, 2, 0, 14, 4"
+st4n_2,haven_labelled,Last time assistance was received (number),TRUE,18,0.6365225801651663,"6, 1, 3, 2, 1"
+st4n_3,haven_labelled,Last time assistance was received (number),TRUE,18,0.867122981920988,"2, 2, 2, 2, 2"
+st4n_4,haven_labelled,Last time assistance was received (number),TRUE,17,0.9859757458522431,"5, 4, 8, 1, 4"
+st4n_5,haven_labelled,Last time assistance was received (number),TRUE,17,0.9057733799568485,"1, 2, 2, 1, 1"
+eu1,haven_labelled,Type of cookstove mainly used for cooking,TRUE,12,0.054423034000446395,"9, 9, 9, 9, 9"
+eu2,haven_labelled,Cookstove have a chimney,TRUE,4,0.7585373112119634,"2, 2, 2, 2, 2"
+eu3,haven_labelled,Cookstove have a fan,TRUE,4,0.7585373112119634,"2, 2, 2, 1, 2"
+eu4,haven_labelled,Type of energy source for cookstove,TRUE,11,0.06870768544007143,"6, 6, 6, 6, 6"
+eu5,haven_labelled,Place for cooking,TRUE,7,0.05907298564094934,"3, 3, 3, 3, 2"
+eu6,haven_labelled,Type of space heating in household,TRUE,9,0.054423034000446395,"6, 6, 97, 6, 6"
+eu7,haven_labelled,Space heater have a chimney,TRUE,4,0.9242243880663641,"2, 2, 2, 2, 2"
+eu8,haven_labelled,Type of energy source for heater,TRUE,14,0.8541031173275798,"11, 11, 11, 11, 11"
+eu9,haven_labelled,Type of lighting in household,TRUE,16,0.054423034000446395,"4, 4, 96, 9, 96"
+tn1,haven_labelled,Household has mosquito nets,TRUE,3,0.054423034000446395,"1, 2, 1, 1, 1"
+tn2,numeric,Number of mosquito nets,FALSE,10,0.25143218510527493,"1, 2, 4, 2, 1"
+ws1,haven_labelled,Main source of drinking water,TRUE,17,0.054423034000446395,"21, 14, 21, 21, 21"
+ws2,haven_labelled,Main source of water used for other purposes (if bottled water used for drinking),TRUE,8,0.9971356297894501,"81, 72, 31, 21, 11"
+ws3,haven_labelled,Location of the water source,TRUE,4,0.1406517372219329,"3, 3, 3, 3, 3"
+ws4,haven_labelled,Time (in minutes) to get water and come back,TRUE,100,0.18235250353396323,"10, 5, 30, 6, 9"
+ws5,haven_labelled,Person collecting water,TRUE,13,0.19157800758872107,"2, 2, 1, 2, 4"
+ws6,haven_labelled,Number of times person collected water in the last seven days,TRUE,80,0.19157800758872107,"0, 21, 10, 35, 7"
+ws7,haven_labelled,There been any time in the last month without sufficient water,TRUE,4,0.054423034000446395,"2, 2, 2, 2, 2"
+ws8,haven_labelled,Main reason without sufficient water,TRUE,6,0.8405996577635593,"1, 6, 1, 3, 1"
+ws9,haven_labelled,Treat water to make safer for drinking,TRUE,4,0.054423034000446395,"2, 1, 2, 1, 1"
+ws10a,haven_labelled,Water treatment: Boil,TRUE,3,0,", , , , "
+ws10b,haven_labelled,Water treatment: Add bleach/chlorine,TRUE,3,0,", , , , "
+ws10c,haven_labelled,Water treatment: Strain it through a cloth,TRUE,3,0,", , , , "
+ws10d,haven_labelled,Water treatment: Use water filter,TRUE,3,0,", , , , "
+ws10e,haven_labelled,Water treatment: Solar disinfection,TRUE,3,0,", , , , "
+ws10f,haven_labelled,Water treatment: Let it stand and settle,TRUE,3,0,", , , , "
+ws10g,haven_labelled,Water treatment: Covering the container,TRUE,3,0,", G, , G, "
+ws10x,haven_labelled,Water treatment: Other,TRUE,3,0,", , , , "
+ws10z,haven_labelled,Water treatment: DK,TRUE,3,0,", , , , "
+ws10nr,haven_labelled,Water treatment: No response,TRUE,2,0,", , , , "
+ws11,haven_labelled,Type of toilet facility,TRUE,13,0.054423034000446395,"22, 22, 23, 22, 22"
+ws12,haven_labelled,Pit latrine or septic tank ever been emptied,TRUE,6,0.1371921732013987,"4, 4, 4, 4, 4"
+ws13,haven_labelled,Place the contents were emptied,TRUE,8,0.9897329067777695,"1, 8, 4, 4, 4"
+ws14,haven_labelled,Location of the toilet faciltity,TRUE,4,0.12685068075292016,"2, 3, 2, 2, 3"
+ws15,haven_labelled,Toilet facility shared,TRUE,3,0.12685068075292016,"2, 1, 2, 2, 1"
+ws16,haven_labelled,Toilet shared with other household or with general public,TRUE,3,0.6229819209880217,"1, 1, 1, 1, 1"
+ws17,haven_labelled,Households using this toilet facility,TRUE,11,0.6315006323934231,"2, 2, 2, 2, 4"
+hw1,haven_labelled,Place where household members most often wash their hands,TRUE,6,0.054423034000446395,"3, 4, 3, 4, 3"
+hw2,haven_labelled,Water available at the place for handwashing,TRUE,3,0.3107655680380924,"2, 2, 2, 2, 1"
+hw3,haven_labelled,Soap or detergent present at place of handwashing,TRUE,3,0.3107655680380924,"2, 2, 2, 2, 2"
+hw4,haven_labelled,Usual place for handwashing,TRUE,5,0.9944944572576445,"3, 4, 3, 4, 3"
+hw5,haven_labelled,Soap/other material available for washing hands,TRUE,3,0.29811769957592443,"1, 2, 1, 1, 2"
+hw6,haven_labelled,Hand washing material shown,TRUE,3,0.7216352949929321,"1, 1, 1, 1, 1"
+hw7a,haven_labelled,Bar soap,TRUE,3,0,"A, , A, A, "
+hw7b,haven_labelled,Detergent (Powder / Liquid / Paste),TRUE,3,0,", , , , "
+hw7c,haven_labelled,Ash / Mud / Sand,TRUE,3,0,", , , , "
+hw7nr,haven_labelled,No response,TRUE,2,0,", , , , "
+sa1,haven_labelled,Salt iodization test outcome,TRUE,6,0.054423034000446395,"3, 3, 4, 3, 3"
+sa2,haven_labelled,Salt iodization recheck test outcome,TRUE,5,0.7617736775537535,"3, 1, 2, 1, 3"
+wq1,numeric,Cluster number,FALSE,1111,0.8806636410981326,"1, 1, 1, 2, 2"
+wq2,numeric,Household number,FALSE,42,0.8806636410981326,"4, 12, 20, 1, 9"
+wq3,numeric,Measurer number,FALSE,85,0.8806636410981326,"15, 15, 15, 15, 15"
+wq4,numeric,Interviewer number,FALSE,138,0.8806636410981326,"11, 13, 14, 11, 14"
+wq5d,numeric,Day of water quality test,FALSE,31,0.8806636410981326,"8, 10, 10, 25, 27"
+wq5m,haven_labelled,Month of water quality test,TRUE,7,0.8806636410981326,"2, 2, 2, 2, 2"
+wq5y,numeric,Year of water quality test,FALSE,2,0.8806636410981326,"2020, 2020, 2020, 2020, 2020"
+wq6,haven_labelled,HH selected for blank testing,TRUE,2,0.8806636410981326,"2, 2, 1, 1, 2"
+wq8,haven_labelled,Consent for water quality test,TRUE,2,0.8806636410981326,"1, 1, 1, 1, 1"
+wq31,haven_labelled,Result of water quality test,TRUE,4,0.8806636410981326,"1, 1, 1, 1, 1"
+wq10h,numeric,Start of water quality test - Hour,FALSE,17,0.8809984376162487,"13, 9, 12, 15, 18"
+wq10m,numeric,Start of water quality test - Minutes,FALSE,60,0.8809984376162487,"23, 18, 29, 29, 13"
+wq23h,numeric,End of water quality test - Hour,FALSE,17,0.8811844356818689,"13, 9, 12, 16, 18"
+wq23m,numeric,End of water quality test - Minutes,FALSE,60,0.8811844356818689,"48, 41, 55, 2, 23"
+wq11,haven_labelled,A glass of water that you would give to a child to drink was provided,TRUE,3,0.8809984376162487,"1, 1, 1, 1, 1"
+wq12,haven_labelled,Water was collected from the source,TRUE,4,0.8811844356818689,"2, 2, 2, 2, 2"
+wq14,haven_labelled,Done anything to the water to make it safer to drink,TRUE,3,0.8811844356818689,"2, 2, 2, 2, 2"
+wq15a,haven_labelled,Water treatment: Boil,TRUE,3,0,", , , , "
+wq15b,haven_labelled,Water treatment: Add bleach/chlorine,TRUE,3,0,", , , , "
+wq15c,haven_labelled,Water treatment: Strain it through a cloth,TRUE,3,0,", , , , "
+wq15d,haven_labelled,Water treatment: Use water filter,TRUE,3,0,", , , , "
+wq15e,haven_labelled,Water treatment: Solar disinfection,TRUE,2,0,", , , , "
+wq15f,haven_labelled,Water treatment: Let it stand and settle,TRUE,3,0,", , , , "
+wq15x,haven_labelled,Water treatment: Other,TRUE,3,0,", , , , "
+wq15z,haven_labelled,Water treatment: DK,TRUE,2,0,", , , , "
+wq15nr,haven_labelled,Water treatment: No response,TRUE,2,0,", , , , "
+wq16,haven_labelled,Was the glass water from the main source,TRUE,3,0.8811844356818689,"1, 1, 1, 1, 1"
+wq17,haven_labelled,Source of water where the glass of water was collected,TRUE,12,0.9681199315527118,"31, 12, 21, 11, 14"
+wq18,haven_labelled,Main source of water was shown,TRUE,6,0.8811844356818689,"1, 1, 1, 1, 1"
+wq19,haven_labelled,Source water sample collected,TRUE,2,0.8831560151774421,"1, 1, 1, 1, 1"
+wq20,haven_labelled,HH selected for blank testing,TRUE,2,0.8811844356818689,"2, 2, 1, 1, 2"
+wq21,haven_labelled,Blank water test available,TRUE,3,0.960531210475411,"1, 1, 1, 1, 1"
+wq24d,numeric,Day of recording test results,FALSE,31,0.8811844356818689,"9, 12, 12, 26, 28"
+wq24m,haven_labelled,Month of recording test results,TRUE,8,0.8811844356818689,"2, 2, 2, 2, 2"
+wq24y,numeric,Year of recording test results,FALSE,2,0.8811844356818689,"2020, 2020, 2020, 2020, 2020"
+wq25h,numeric,Time of recording test results - Hour,FALSE,18,0.8811844356818689,"19, 7, 7, 20, 19"
+wq25m,numeric,Time of recording test results - Minutes,FALSE,60,0.8811844356818689,"20, 36, 39, 26, 4"
+wq26,haven_labelled,Household water test (100ml),TRUE,101,0.8811844356818689,"101, 101, 13, 101, 101"
+wq27,haven_labelled,Source water test (100ml),TRUE,99,0.8839000074399226,"0, 0, 1, 0, 0"
+wq29,haven_labelled,Blank water test (100ml),TRUE,9,0.9617587977085038,"0, 0, 0, 0, 0"
+district,haven_labelled,District,TRUE,32,0,"101, 101, 101, 101, 101"
+hhsex,haven_labelled,Sex of household head,TRUE,2,0.054423034000446395,"1, 1, 2, 1, 1"
+hhage,numeric,Age of household head,FALSE,82,0.054423034000446395,"24, 57, 28, 48, 61"
+ethnicity,haven_labelled,Ethnicity of household head,TRUE,9,0.054423034000446395,"96, 96, 2, 96, 96"
+helevel,haven_labelled,Education of household head,TRUE,7,0.054423034000446395,"2, 1, 2, 1, 1"
+hhweight,numeric,Household sample weight,FALSE,1109,0,"0.432607122761421, 0.432607122761421, 0.432607122761421, 0.432607122761421, 0"
+wqhweight,numeric,Weight for household WQT,FALSE,1109,0,"0.431653145541606, 0.431653145541606, 0.431653145541606, 0.431653145541606, 0"
+wqsweight,numeric,Weight for source WQT,FALSE,1109,0,"0.425541133951445, 0.425541133951445, 0.425541133951445, 0.425541133951445, 0"
+wscore,numeric,Combined wealth score,FALSE,25297,0,"-0.399029528309053, -0.587900697814062, -0.655508854883502, -0.0443600937698224, 0"
+windex5,haven_labelled,Wealth index quintile,TRUE,6,0,"3, 2, 2, 4, 0"
+windex10,numeric,Wealth index deciles,FALSE,11,0,"5, 4, 3, 7, 0"
+wscoreu,numeric,Urban wealth score,FALSE,3679,0.8086823897031471,"0, 0, 0, 0, 0"
+windex5u,haven_labelled,Urban wealth index quintile,TRUE,6,0.8086823897031471,"0, 0, 0, 0, 0"
+windex10u,numeric,Urban wealth index deciles,FALSE,11,0.8086823897031471,"0, 0, 0, 0, 0"
+wscorer,numeric,Rural wealth score,FALSE,21619,0.13689457629640653,"-0.245780579984451, -0.514063491213156, -0.610097805232247, 0.258011230440593, 0"
+windex5r,haven_labelled,Rural wealth index quintile,TRUE,6,0.13689457629640653,"3, 2, 2, 4, 0"
+windex10r,numeric,Rural wealth index deciles,FALSE,11,0.13689457629640653,"6, 4, 3, 8, 0"
+psu,numeric,Primary sampling unit,FALSE,1111,0,"1, 1, 1, 1, 1"
+stratum,haven_labelled,Sample stratum,TRUE,56,0,"1012, 1012, 1012, 1012, 1012"

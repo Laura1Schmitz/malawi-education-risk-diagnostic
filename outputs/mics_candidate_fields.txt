@@ -1,0 +1,8 @@
+Candidate fields present in MICS extract:
+
+- hh_id: hh1, hh2, psu
+- child_line: hl1
+- weight: <none found>
+- district: <none found>
+- region: hh7
+- urban: hh6
